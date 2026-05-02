@@ -1,3 +1,5 @@
+<img src="./logo.svg" width="100">
+
 # SortIt - AI-Powered File Organizer
 
 SortIt is a completely local, intelligent file organization tool. It uses AI to analyze your files and automatically propose or apply an organized folder structure based on categories, dates, and metadata.
@@ -19,8 +21,6 @@ The application binaries for Windows, macOS, and Linux have been pre-built and a
 - `sortit-linux` (Linux)
 
 You can run these directly without needing to install Node.js.
-
----
 
 ## Running the App Locally (For Developers)
 
@@ -46,8 +46,6 @@ You can run these directly without needing to install Node.js.
 
    Open <http://localhost:3000> in your browser.
 
----
-
 ## How to Create a Single Combined Executable
 
 The application can be packaged into a single binary that contains both the React frontend and the Express backend.
@@ -71,8 +69,6 @@ Check the bin/ directory. You will find binaries for:
 ### 3. Bundled Assets
 
 The build process uses esbuild to bundle the server and pkg to bundle the frontend assets (/dist) into the binary. When you run the resulting executable, it will extract and serve the UI directly from the binary itself. No external folders are required for deployment.
-
----
 
 ## Building with Docker (Recommended)
 
@@ -98,8 +94,6 @@ docker cp temp-sortit:/output/bin ./bin
 # Remove the temporary container
 docker rm temp-sortit
 ```
-
----
 
 ## Technical Details
 
