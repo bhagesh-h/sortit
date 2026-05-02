@@ -12,6 +12,24 @@ SortIt is a completely local, intelligent file organization tool. It uses AI to 
 - Preview First: Review proposed changes before they are applied to your virtual organization.
 - Cross-Platform: Runs on Windows, macOS, and Linux.
 
+## Screenshots
+
+### About SortIt
+
+![About](./screenshots/About.png)
+
+### Dashboard
+
+![Dashboard](./screenshots/Dashboard.png)
+
+### Settings & Configuration
+
+![Settings](./screenshots/Settings.png)
+
+### AI Sort Preview
+
+![Sort Preview](./screenshots/sort_preview.png)
+
 ## Download/Run Binaries
 
 The application binaries for Windows, macOS, and Linux have been pre-built and are available in the root directory:
