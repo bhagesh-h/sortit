@@ -1,0 +1,8 @@
+node_modules
+dist
+dist-server
+bin
+.git
+.env
+db.json
+*.log
