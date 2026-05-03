@@ -32,11 +32,7 @@ SortIt is a completely local, intelligent file organization tool. It uses AI to 
 
 ## Download/Run Binaries
 
-The application binaries for Windows, macOS, and Linux have been pre-built and are available in the root directory:
-
-- `sortit-windows.exe` (Windows)
-- `sortit-macos` (macOS)
-- `sortit-linux` (Linux)
+The application binaries for Windows, macOS, and Linux have been pre-built and are available at [Releases](https://github.com/bhagesh-h/sortit/releases).
 
 You can run these directly without needing to install Node.js.
 
